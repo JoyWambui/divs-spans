@@ -10,6 +10,7 @@
 img {
   float: right;
   width: 40%;
+  margin: 10px;
 }
 .sidebar {
   width: 30%;
@@ -25,5 +26,6 @@ img {
 }
 .main {
   text-align: justify;
+  margin: 4px;
 }
 
