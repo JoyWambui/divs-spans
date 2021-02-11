@@ -9,12 +9,15 @@
 }
 img {
   float: right;
-  width: 30%;
+  width: 40%;
 }
 .sidebar {
   width: 30%;
+  height: 60%;
   float: left;
   background-color: peru;
+  border: solid darkolivegreen 5px;
+  margin:4px;
 }
 .column {
   float: left;
@@ -23,3 +26,4 @@ img {
 .main {
   text-align: justify;
 }
+
